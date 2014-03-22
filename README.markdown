@@ -5,7 +5,7 @@ This paper is the result of an analysis of the protocol used by the
 commercial mobile messaging application
 [Threema](http://threema.ch/en/).
 
-Along with the paper this repository includes the source code of the LaTeX files that were used to generate the PDF document.
+Along with [the paper](https://github.com/JanAhrens/threema-protocol-analysis/raw/master/threema-protocol-analysis.pdf) this repository includes the source code of the LaTeX files that were used to generate the PDF document.
 
 Building the PDF document
 -------------------------
