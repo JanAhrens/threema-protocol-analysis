@@ -29,3 +29,8 @@ To setup gitinfo it needs to be integrated with git using git-hooks.
 
 You have to create a post-commit, post-checkout and post-merge hook in your local `.git/hooks` directory.
 I used the [example file](http://mirrors.ctan.org/macros/latex/contrib/gitinfo/post-xxx-sample.txt) from the gitinfo package.
+
+License
+-------
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
