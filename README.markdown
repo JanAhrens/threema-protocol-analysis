@@ -3,7 +3,7 @@ Threema protocol analysis
 
 This paper is the result of an analysis of the protocol used by the
 commercial mobile messaging application
-[Threema](http://threema.ch/en/).
+[Threema](https://threema.ch/en/).
 
 Along with [the paper](https://github.com/JanAhrens/threema-protocol-analysis/raw/master/threema-protocol-analysis.pdf) this repository includes the source code of the LaTeX files that were used to generate the PDF document.
 
